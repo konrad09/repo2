@@ -1,5 +1,5 @@
 Vestibulum MASTER id turpis ac urna lobortis vulputate.
-Nam sed ipsum accumsan, 123 varius ligula id, ultrices purus.
+Nam sed ipsum accumsan, varius ligula id, ultrices purus.
 Proin quis lectus BRANCH facilisis, aliquet ipsum vulputate, pretium justo.
 Etiam malesuada BRANCH orci nec tortor scelerisque, id varius lorem sollicitudin.
 Sed gravida eros BRANCH consequat, rutrum nisl sed, cursus orci.
